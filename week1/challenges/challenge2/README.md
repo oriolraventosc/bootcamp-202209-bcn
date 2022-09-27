@@ -4,7 +4,7 @@
 
 #### Este es un challenge para hacer por parejas.
 
-Un miembro del grupo será encargado de crear el repo en local y en remoto. Cuando esté listo, el otro miembro se lo tendrá que clonar en local. El repo debe llamarse 202207-w1ch2-nombre1-apellido1-nombre2-apellido2.
+Un miembro del grupo será encargado de crear el repo en local y en remoto. Cuando esté listo, el otro miembro se lo tendrá que clonar en local. El repo debe llamarse 202209-w1ch2-nombre1-apellido1-nombre2-apellido2.
 
 El objetivo es crear con HTML (**y nada de CSS**) una web con cuatro páginas: Home, Quiénes somos, Nuestros CV y Contacto.
 
