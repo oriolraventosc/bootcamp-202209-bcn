@@ -12,6 +12,8 @@
 
 [Exercise 5: CSS Layout](/week1/exercises/exercise-css-layout)
 
+[Exercise 6: CSS Layout](/week1/exercises/exercise-css-layout)
+
 [Challenge 1: Git & GitHub](/week1/challenges/challenge1/)
 
 [Challenge 2: Nuestra web](/week1/challenges/challenge2/)
