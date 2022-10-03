@@ -25,3 +25,7 @@
 [Challenge 4: Maquetación Pets](/week1/challenges/challenge4/)
 
 [Challenge 5: Travelulu](/week1/challenges/challenge-weekend/)
+
+## Week 2
+
+[Challenge 1: HTML + CSS Components](/week2/challenges/challenge1/)
