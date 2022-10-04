@@ -28,4 +28,6 @@
 
 ## Week 2
 
+[Exercise 1: Case convert](/week2/exercises/exercise-case-convert)
+
 [Challenge 1: HTML + CSS Components](/week2/challenges/challenge1/)
