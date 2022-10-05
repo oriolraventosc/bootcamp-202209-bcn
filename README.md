@@ -30,6 +30,8 @@
 
 [Exercise 1: Case convert](/week2/exercises/exercise-case-convert)
 
+[Exercise 2: Palindrome](/week2/exercises/exercise-palindrome)
+
 [Challenge 1: HTML + CSS Components](/week2/challenges/challenge1/)
 
 [Challenge 2: strictEquals](/week2/challenges/challenge2/)
