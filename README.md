@@ -43,3 +43,7 @@
 [Challenge 4: Array methods](/week2/challenges/challenge4/)
 
 [Challenge 5: Game of life](/week2/challenges/challenge-weekend/)
+
+## Week 3
+
+[Challenge 1: GoT DOM](/week3/challenges/challenge1/)
