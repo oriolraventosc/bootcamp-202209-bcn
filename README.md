@@ -48,6 +48,8 @@
 
 [Exercise 1: Patients](/week3/exercises/exercise-patients)
 
+[Exercise 2: Form components](/week3/exercises/exercise-form-components)
+
 [Challenge 1: GoT DOM](/week3/challenges/challenge1/)
 
 [Challenge 3: Series](/week3/challenges/challenge3/)
