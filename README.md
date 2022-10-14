@@ -50,6 +50,8 @@
 
 [Exercise 2: Form components](/week3/exercises/exercise-form-components)
 
+[Exercise 3: Giphy](/week3/exercises/exercise-giphy)
+
 [Challenge 1: GoT DOM](/week3/challenges/challenge1/)
 
 [Challenge 3: Series](/week3/challenges/challenge3/)
